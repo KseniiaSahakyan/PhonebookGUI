@@ -19,4 +19,3 @@ gradlew/
 *.log
 *.png
 # Project exclude paths
-/build/

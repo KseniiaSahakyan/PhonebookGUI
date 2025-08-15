@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.phonebook.tests.AddContactTests" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-08-13T10:54:38.533Z" hostname="MacBook-Pro-von-Kseniia.local" time="87.86">
+  <properties/>
+  <testcase name="addContactFromDataProviderPositiveTest[0](Oliver, Kan, 1234567891, kan@gm.com, Berlin, goalkeeper)" classname="com.phonebook.tests.AddContactTests" time="2.322"/>
+  <testcase name="addContactFromDataProviderPositiveTest[1](Oliver1, Kan1, 1234017891, kab@gm.com, Berlin, goalkeeper)" classname="com.phonebook.tests.AddContactTests" time="1.587"/>
+  <testcase name="addContactFromDataProviderPositiveTest[2](Oliver2, Kan2, 1201567891, kad@gm.com, Berlin, goalkeeper)" classname="com.phonebook.tests.AddContactTests" time="1.511"/>
+  <testcase name="addContactFromDataProviderWithCsvFilePositiveTest[0](Contact{name='Oliver', phone='1234567890'})" classname="com.phonebook.tests.AddContactTests" time="1.501"/>
+  <testcase name="addContactFromDataProviderWithCsvFilePositiveTest[1](Contact{name='Oliver1', phone='12345678901'})" classname="com.phonebook.tests.AddContactTests" time="1.456"/>
+  <testcase name="addContactFromDataProviderWithCsvFilePositiveTest[2](Contact{name='Oliver2', phone='12345678901234'})" classname="com.phonebook.tests.AddContactTests" time="1.407"/>
+  <testcase name="addContactFromDataProviderWithCsvFilePositiveTest[3](Contact{name='Oliver3', phone='123456789012345'})" classname="com.phonebook.tests.AddContactTests" time="1.676"/>
+  <testcase name="addContactPositiveTest" classname="com.phonebook.tests.AddContactTests" time="1.58"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
