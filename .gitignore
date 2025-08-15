@@ -1,0 +1,22 @@
+.gradle
+
+### IntelliJ IDEA ###
+*.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Mac OS ###
+.DS_Store
+
+settings.gradle
+gradlew.bat
+gradlew/
+/gradle
+*.log
+*.png
+# Project exclude paths
+/build/
