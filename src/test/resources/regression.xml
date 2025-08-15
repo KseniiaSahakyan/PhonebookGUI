@@ -13,7 +13,7 @@
             </class>
             <class name="com.phonebook.tests.AddContactTests">
             <methods>
-                <exclude name="*From.*"></exclude>
+                <exclude name=".*From.*"></exclude>
             </methods>        
             </class>
             <class name="com.phonebook.tests.RemoveContactTests"/>
